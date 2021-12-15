@@ -6,13 +6,13 @@
 <br />
 
 <p align="center">
- <img src="DDJ_Onboarding.png" alt="Onboarding Logo">
+ <img src="CHOOSEtheCHART_Logo.jpg" alt="Onboarding Logo">
 </p>
 
 <br />
 <br />
 
-> Vor der Nutzung ist es wichtig unbedingt die Lizenz zu beachten!
+> Vor der Nutzung diese Kartendecks oder dieser Ressource ist es wichtig unbedingt die Lizenz zu beachten!
 
 
 ### Kurzfassung:
