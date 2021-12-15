@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
- <img src="CHOOSEtheCHART_Logo.jpg" alt="Onboarding Logo">
+ <img src="CHOOSEtheCHART_Logo.png" alt="Onboarding Logo">
 </p>
 
 <br />
