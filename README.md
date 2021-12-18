@@ -12,7 +12,7 @@
 <br />
 <br />
 
-> Vor der Nutzung diese Kartendecks oder dieser Ressource ist es wichtig unbedingt die Lizenz zu beachten!
+> Vor der Nutzung diese Kartendecks oder dieser Ressource ist es wichtig unbedingt die Lizenz zu beachten! <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 
 
 ### Kurzfassung:
