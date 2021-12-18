@@ -68,3 +68,6 @@ directly in the tool must be clarified in further research.
 
 ## Methodenkartenset
 [![Zum PDF](https://github.com/fhstp/CHOOSE_the_CHART/raw/main/Teaser.png)](https://docs.google.com/viewer?url=https://github.com/fhstp/CHOOSE_the_CHART/raw/main/CHOOSEtheCHART.pdf)
+
+# Lizenz
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Choose the Chart!</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Judith Rührer</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
