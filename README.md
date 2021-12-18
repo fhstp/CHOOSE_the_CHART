@@ -67,4 +67,4 @@ examples. Whether these should be offered as an external online supplement or
 directly in the tool must be clarified in further research.
 
 ## Methodenkartenset
-[![Zum PDF](https://github.com/fhstp/CHOOSE_the_CHART/blob/main/Teaser.PNG)](https://docs.google.com/viewer?url=https://github.com/fhstp/CHOOSE_the_CHART/raw/main/CHOOSEtheCHART.pdf)
+[![Zum PDF](https://github.com/fhstp/CHOOSE_the_CHART/raw/main/Teaser.png)](https://docs.google.com/viewer?url=https://github.com/fhstp/CHOOSE_the_CHART/raw/main/CHOOSEtheCHART.pdf)
